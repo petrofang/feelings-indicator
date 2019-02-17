@@ -9,8 +9,13 @@ As a functional product it can work as a communication tool for those with
 limited communication skill or capacity. It is also an enjoyable fidget toy.
 
 Included Files:
+
 main.brd   . . . . . . . . . . . . . EAGLE CAD board file
+
 main.sch   . . . . . . . . . . . . . EAGLE CAD schematic
+
 main.pdf   . . . . . . . . . . . . . PDF schematic
+
 main_oshpark-top.png   . . . . . . . OSH Park render
+
 main_oshpark-bottom.png  . . . . . . OSH Park render
